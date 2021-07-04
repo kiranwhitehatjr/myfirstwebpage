@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+    
+}
+img
+{
+    border-width: 5px;
+    width: 300px;
+    height: auto;
+}
+
+#div1
+{
+    font-size: 50px;
+    color: maroon;
+}
